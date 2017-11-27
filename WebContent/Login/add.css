@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+#customers {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+}
+
+#customers td,#customers th,input,b {
+	font-size: 1.2em;
+	padding: 3px 7px 2px 7px;
+}
+
+#d font {
+	font-size: 2.7em;
+	color: #ffffff;
+}
+
+#d {
+	background-color: #A7C942;
+}
